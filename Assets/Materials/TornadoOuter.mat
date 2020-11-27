@@ -29,7 +29,7 @@ Material:
     - Color_FDE3DE3F: {r: 0.7735849, g: 0.66106653, b: 0.15617657, a: 0}
     - Vector2_2BB6D0FE: {r: 0.5, g: 0.5, b: 0, a: 0}
     - Vector2_769AD1A2: {r: 0, g: 0, b: 0, a: 0}
-    - Vector2_A2E506ED: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - Vector2_A2E506ED: {r: 0.5, g: -0.5, b: 0, a: 0}
     - Vector2_C2BCEA1F: {r: 0.5, g: -0.5, b: 0, a: 0}
     - Vector2_D0AD4818: {r: 0.5, g: -0.5, b: 0, a: 0}
   m_BuildTextureStacks: []
